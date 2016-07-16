@@ -9,6 +9,7 @@ Software Dependencies : 1. VLC
                
 Usage : 
 
-1. mp4tomp3.sh 
-Command : ./mp4tomp3.sh *.mp4 
-Descrtion : This is convert all mp4 to mp3. 
+1. mp4tomp3.sh :Convert all mp4 to mp3. 
+		Command : ./mp4tomp3.sh *.mp4 
+  	
+Coming up ... will extend it to include eveything else 
